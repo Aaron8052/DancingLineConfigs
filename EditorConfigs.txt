@@ -13,7 +13,7 @@
     <key>DL_URL_BILIBILI</key>
     <string>https://space.bilibili.com/187016314</string>
     <key>DLRSLoginRequired</key>
-    <true />
+    <false />
 
   </dict>
 </plist>
