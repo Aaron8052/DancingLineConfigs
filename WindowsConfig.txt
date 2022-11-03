@@ -5,7 +5,7 @@
     <key>debug</key>
     <false />
     <key>DiscordInviteURL</key>
-    <string>https://discord.gg/9xDYMDaxDy</string>
+    <string>123</string>
     <key>DL_URL_DISCORD</key>
     <string>https://discord.gg/9xDYMDaxDy</string>
     <key>DL_URL_QQ_GROUP</key>
