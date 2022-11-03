@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"[]>
+<plist version="1.0">
+  <dict>
+    <key>debug</key>
+    <false />
+    <key>DiscordInviteURL</key>
+    <string>https://discord.gg/9xDYMDaxDy</string>
+    <key>GAME_IPHONE_X_HORIZONTAL_PADDING</key>
+    <string>0:0</string>
+    <key>GAME_IPHONE_X_VERTICAL_PADDING</key>
+    <string>50:50</string>
+    <key>GAME_IPHONE_X_DOWN_SCALE_MULTIPLIER</key>
+    <string>1</string>
+    <key>GAME_IPHONE_X_ORIENTATIONS</key>
+    <string>portrait;portraitupsidedown</string>
+    <key>GAME_IPHONE_X_STATUSBAR</key>
+    <false />
+    <key>DL_URL_DISCORD</key>
+    <string>https://discord.gg/9xDYMDaxDy</string>
+    <key>DL_URL_QQ_GROUP</key>
+    <string>https://jq.qq.com/?_wv=1027&amp;k=AszSrPwp</string>
+    <key>DL_URL_YOUTUBE</key>
+    <string>https://www.youtube.com/channel/UC3G7zytkctDQzLtYoiNaDNg</string>
+    <key>DL_URL_BILIBILI</key>
+    <string>https://space.bilibili.com/187016314</string>
+  </dict>
+</plist>
