@@ -7,17 +7,17 @@
     <key>GAME_IPHONE_X_HORIZONTAL_PADDING</key>
     <string>0:0</string>
     <key>GAME_IPHONE_X_VERTICAL_PADDING</key>
-    <string>0:0</string>
+    <string>300:300</string>
     <key>GAME_IPHONE_X_DOWN_SCALE_MULTIPLIER</key>
     <string>1</string>
     <key>DL_URL_DISCORD</key>
-    <string>https://discord.gg/9xDYMDaxDy</string>
+    <string>https://www.bilibili.com/video/BV1Wx411q7Ks/</string>
     <key>DL_URL_QQ_GROUP</key>
-    <string>https://www.youtube.com/watch?v=dQw4w9WgXcQ</string>
+    <string>https://www.bilibili.com/video/BV1Wx411q7Ks/</string>
     <key>DL_URL_YOUTUBE</key>
-    <string>https://www.youtube.com/channel/UC3G7zytkctDQzLtYoiNaDNg</string>
+    <string>https://www.bilibili.com/video/BV1Wx411q7Ks/</string>
     <key>DL_URL_BILIBILI</key>
-    <string>https://space.bilibili.com/187016314</string>
+    <string>https://www.bilibili.com/video/BV1Wx411q7Ks/</string>
     <key>DLRSLoginRequired</key>
     <true />
   </dict>
