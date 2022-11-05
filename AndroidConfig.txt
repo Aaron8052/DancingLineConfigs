@@ -7,7 +7,7 @@
     <key>GAME_IPHONE_X_HORIZONTAL_PADDING</key>
     <string>0:0</string>
     <key>GAME_IPHONE_X_VERTICAL_PADDING</key>
-    <string>50:50</string>
+    <string>0:50</string>
     <key>GAME_IPHONE_X_DOWN_SCALE_MULTIPLIER</key>
     <string>1</string>
     <key>DL_URL_DISCORD</key>
