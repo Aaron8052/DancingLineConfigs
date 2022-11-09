@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"[]>
 <plist version="1.0">
   <dict>
-    <key>DiscordInviteURL</key>
-    <string>https://discord.gg/9xDYMDaxDy</string>
     <key>GAME_IPHONE_X_HORIZONTAL_PADDING</key>
     <string>0:0</string>
     <key>GAME_IPHONE_X_VERTICAL_PADDING</key>
