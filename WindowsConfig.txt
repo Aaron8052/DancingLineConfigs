@@ -5,7 +5,7 @@
     <key>debug</key>
     <false />
     <key>DL_URL_DISCORD</key>
-    <string>https://discord.gg/9xDYMDaxDy</string>
+    <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
     <key>DL_URL_QQ_GROUP</key>
     <string>https://jq.qq.com/?_wv=1027&amp;k=AszSrPwp</string>
     <key>DL_URL_YOUTUBE</key>
