@@ -19,6 +19,6 @@
     <key>DL_URL_SHARE_GAME</key>
     <string>https://discord.gg/9xDYMDaxDy</string>
     <key>DLRSLoginRequired</key>
-    <true />
+    <false />
   </dict>
 </plist>
