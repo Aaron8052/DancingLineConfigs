@@ -22,5 +22,9 @@
     <string>https://www.youtube.com/channel/UC3G7zytkctDQzLtYoiNaDNg</string>
     <key>DL_URL_BILIBILI</key>
     <string>https://space.bilibili.com/187016314</string>
+    <key>DL_URL_SHARE_GAME</key>
+    <string>https://testflight.apple.com/join/XnV3J5fu</string>
+    <key>DLRSLoginRequired</key>
+    <false />
   </dict>
 </plist>
