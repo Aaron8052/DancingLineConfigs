@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"[]>
 <plist version="1.0">
   <dict>
-    <key>GAME_IPHONE_X_HORIZONTAL_PADDING</key>
+    <key>HORIZONTAL_PADDING</key>
     <string>0:0</string>
-    <key>GAME_IPHONE_X_VERTICAL_PADDING</key>
+    <key>VERTICAL_PADDING</key>
     <string>50:50</string>
-    <key>GAME_IPHONE_X_DOWN_SCALE_MULTIPLIER</key>
+    <key>DOWN_SCALE_MULTIPLIER</key>
     <string>1</string>
     <key>DL_URL_DISCORD</key>
     <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
