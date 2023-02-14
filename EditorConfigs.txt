@@ -6,14 +6,19 @@
     <true />
     <key>DL_URL_DISCORD</key>
     <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
+    
     <key>DL_URL_QQ_GROUP</key>
     <string>https://jq.qq.com/?_wv=1027&amp;k=AszSrPwp</string>
+    
     <key>DL_URL_YOUTUBE</key>
     <string>https://www.youtube.com/channel/UC3G7zytkctDQzLtYoiNaDNg</string>
+    
     <key>DL_URL_BILIBILI</key>
     <string>https://space.bilibili.com/187016314</string>
+    
     <key>DL_URL_SHARE_GAME</key>
     <string>https://discord.gg/9xDYMDaxDy</string>
+    
     <key>DLRSLoginRequired</key>
     <true />
   </dict>
