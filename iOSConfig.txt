@@ -11,7 +11,7 @@
     <key>DOWN_SCALE_MULTIPLIER</key>
     <string>1</string>
     <key>ORIENTATIONS</key>
-    <string>portrait;portraitupsidedown</string>
+    <string>portrait;portraitupsidedown;landscapeleft;landscaperight</string>
     <key>DL_URL_DISCORD</key>
     <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
     <key>DL_URL_QQ_GROUP</key>
