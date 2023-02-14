@@ -15,7 +15,7 @@
     <string>1</string>
     
     <key>ORIENTATIONS</key>
-    <string>portrait;portraitupsidedown</string>
+    <string>portrait;portraitupsidedown;landscaperight</string>
     
     <key>DL_URL_DISCORD</key>
     <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
