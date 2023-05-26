@@ -5,6 +5,9 @@
     <key>debug</key>
     <false />
     
+    <key>SAFE_AREA_PADDING</key>
+    <string>0:50</string>
+    
     <key>HORIZONTAL_PADDING</key>
     <string>0:0</string>
     
