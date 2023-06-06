@@ -20,6 +20,9 @@
     <key>DL_URL_SHARE_GAME</key>
     <string>https://discord.gg/9xDYMDaxDy</string>
     
+    <key>DL_URL_LOCALIZATION_TEAM</key>
+    <string>https://aaron8052.github.io/FengYan-Documentation/#/dlce/localization</string>
+    
     <key>DLRSLoginRequired</key>
     <true />
   </dict>
