@@ -40,5 +40,9 @@
     
     <key>HighScoresLeaderboardName</key>
     <string>level_completion_leaderboard</string>
+
+    <key>UserAgreementDate</key>
+    <string>2023/6/23</string>
+
   </dict>
 </plist>
