@@ -45,9 +45,7 @@
     <string>2023/6/23</string>
 
     <key>AdsStreamingURLs</key>
-    <string>Local:Videos/intro.mp4
-https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/intro.mp4
-https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/求佛无水印.mp4
+    <string>https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/求佛无水印.mp4
 https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/v0200fg10000cdo0ovbc77u65e9cfqog.MOV
 https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/lv_0_20230724142025.mp4
 https://raw.githubusercontent.com/Aaron8052/DancingLineConfigs/main/Assets/Ad_4.mp4
