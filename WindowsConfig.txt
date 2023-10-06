@@ -9,7 +9,7 @@
     <string>https://discord.com/servers/dancing-line-community-681283169869496351</string>
     
     <key>DL_URL_QQ_GROUP</key>
-    <string>https://jq.qq.com/?_wv=1027&amp;k=AszSrPwp</string>
+    <string>https://qm.qq.com/cgi-bin/qm/qr?k=jrj-sAZchUBh1WT5-jNAvlbo2XL3gx4t&jump_from=webapi&authKey=/QkYzDVm7/Ip4kAFOCEEnEjaDA7LcsjpUxT84a4+5TvUFvkYQnGfCbiN6wq498KZ</string>
     
     <key>DL_URL_YOUTUBE</key>
     <string>https://www.youtube.com/channel/UC3G7zytkctDQzLtYoiNaDNg</string>
