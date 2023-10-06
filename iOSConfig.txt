@@ -34,12 +34,6 @@
     
     <key>DL_URL_SHARE_GAME</key>
     <string>https://testflight.apple.com/join/XnV3J5fu</string>
-    
-    <key>DL_URL_LOCALIZATION_TEAM</key>
-    <string>https://aaron8052.github.io/FengYan-Documentation/#/dlce/localization</string>
-
-    <key>DL_URL_LEVEL_DESIGNERS</key>
-    <string>https://aaron8052.github.io/FengYan-Documentation/#/dlce/level_information</string>
 
     <key>HighScoresLeaderboardName</key>
     <string>level_completion_leaderboard</string>
