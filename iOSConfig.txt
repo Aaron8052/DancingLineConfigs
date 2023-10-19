@@ -5,18 +5,6 @@
     <key>debug</key>
     <false />
     
-    <key>SAFE_AREA_PADDING</key>
-    <string>0:50</string>
-    
-    <key>HORIZONTAL_PADDING</key>
-    <string>0:0</string>
-    
-    <key>VERTICAL_PADDING</key>
-    <string>50:50</string>
-    
-    <key>DOWN_SCALE_MULTIPLIER</key>
-    <string>1</string>
-    
     <key>ORIENTATIONS</key>
     <string>portrait;portraitupsidedown</string>
     
